@@ -1,7 +1,8 @@
 # 강주희(Kang Juhee)
 #### 👩🏻‍💻Web Developer
+빠르게 배우며 노력하는 자세를 가진 신입 개발자입니다.
 
-## Skills
+# Stacks
 <div>
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -15,11 +16,19 @@
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![egovframework](https://img.shields.io/badge/egovframework-423482?style=for-the-badge&logo=egovframework&logoColor=black)
 
-
 </div>
 
-## Project
-#### ✈️ HITRIP 여행 커뮤니티 (팀 프로젝트)
-2023.08.01~09.01
+# Certi
+정보처리기사(한국산업인력공단)  2023.06.14 필기 합격 / 2023.11.15 실기 합격 예정
 
-[프로젝트 상세 설명](https://github.com/zzheek/Project_Hitrip)
+# Project
+### ✈️ HITRIP 여행 커뮤니티 (팀 프로젝트) [상세 설명](https://github.com/zzheek/Project_Hitrip)
+> 2023.08.01~09.01
+ 
+🏆 프로젝트 포트폴리오 발표회 최우수상 (하이미디어컴퓨터학원)
+
+# Contact
+📬 zzjuheek@gmail.com
+
+
+
