@@ -32,7 +32,7 @@
 <br><br>
 
 # Contact
-### 📬 zzjuheek@gmail.com
+### 📬 juheek.dev@gmail.com
 <br>
 
 # Education
