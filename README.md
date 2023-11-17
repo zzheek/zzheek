@@ -26,8 +26,6 @@
 
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 ![amazonaws](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-
 </div>
 <br>
 
@@ -36,12 +34,14 @@
 - 전산회계 1급<br>
 - 컴퓨터활용능력 2급<br>
 - 운전면허 2종 보통<br>
-<br><br>
+<br>
 
 # Project
 ### 🖨️ RENTALWEB 렌탈 웹사이트 (팀 프로젝트) [상세 설명](https://github.com/zzheek/Rental_Web)
 > 2023.11.01 ~ 11.15
-<br><br>
+
+<br>
+
 ### ✈️ HITRIP 여행 커뮤니티 (팀 프로젝트) [상세 설명](https://github.com/zzheek/Project_Hitrip)
 > 2023.08.01 ~ 09.01
  
@@ -54,7 +54,7 @@
 
 # Education
 ### 자바기반 풀스택 웹개발자 과정 수료
-> 2023.04.03 ~ 09.20 (하이미디어컴퓨터학원) 
+> 2023.04.03 ~ 09.20 (하이미디어컴퓨터학원) <br>
 
 
 
