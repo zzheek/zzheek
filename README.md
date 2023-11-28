@@ -39,7 +39,6 @@
 # Project
 ### 🖨️ RENTALWEB 렌탈 웹사이트 (팀 프로젝트) [상세 설명](https://github.com/zzheek/Rental_Web)
 > 2023.11.01 ~ 11.15
-
 <br>
 
 ### ✈️ HITRIP 여행 커뮤니티 (팀 프로젝트) [상세 설명](https://github.com/zzheek/Project_Hitrip)
