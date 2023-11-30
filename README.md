@@ -1,6 +1,7 @@
 # 강주희(Kang Juhee)
 #### 👩🏻‍💻Web Developer
 빠르게 배우며, 노력하는 자세를 가진 신입 개발자입니다.
+
 <br><br>
 
 # Stacks
@@ -9,7 +10,7 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![egovframework](https://img.shields.io/badge/egovframework-423482?style=for-the-badge&logo=egovframework&logoColor=black)
+![egovframework](https://img.shields.io/badge/egovframework-423482?style=for-the-badge&logo=egovframework&logoColor=white)
 
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
