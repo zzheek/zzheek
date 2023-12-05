@@ -23,6 +23,8 @@
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![mariadb](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![iBatis](https://img.shields.io/badge/iBatis-232F3E?style=for-the-badge&logo=iBatis&logoColor=white)
+![jpa](https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=jpa&logoColor=white)
 
 
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
