@@ -1,7 +1,6 @@
 # 강주희(Kang Juhee)
 #### 👩🏻‍💻Web Developer
-빠르게 배우며, 노력하는 자세를 가진 신입 개발자입니다.<br><br>
-현재 React, Typescript 공부중입니다.
+빠르게 배우며, 노력하는 자세를 가진 신입 개발자입니다.
 <br><br>
 
 # Stacks
@@ -19,6 +18,7 @@
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
