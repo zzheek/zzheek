@@ -41,6 +41,10 @@
 <br>
 
 # Project
+### 🐶 MUNG 반려견 사료 검색 사이트(팀 프로젝트) [상세 설명](https://github.com/zzheek/Project_Mung)
+> 2024.01.15 ~ 01.25
+<br>
+
 ### 🖨️ RENTALWEB 렌탈 웹사이트 (팀 프로젝트) [상세 설명](https://github.com/zzheek/Rental_Web)
 > 2023.11.01 ~ 11.15
 <br>
